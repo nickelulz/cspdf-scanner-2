@@ -1,0 +1,9 @@
+[submodule "lib/log.c"]
+	path = lib/log.c
+	url = https://github.com/rxi/log.c.git
+[submodule "lib/VersyPDF"]
+	path = lib/VersyPDF
+	url = https://github.com/sybrexsys/VersyPDF.git
+[submodule "lib/pdfio"]
+	path = lib/pdfio
+	url = https://github.com/michaelrsweet/pdfio.git
